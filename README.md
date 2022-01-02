@@ -1,4 +1,4 @@
-# Data-Set-Classification-with-python-and-java-
+# Data Set Classification with python and java
 
 In this task you are asked to put into practice one or more algorithms  classification algorithms on a given data set and to  prepare a technical report, according to the specifications given below. 
 
